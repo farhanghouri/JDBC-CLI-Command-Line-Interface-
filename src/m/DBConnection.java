@@ -1,8 +1,6 @@
 package m;
 
-import java.sql.*;
-import java.util.ArrayList;
-import java.util.List;
+import java.sql.*; 
 
 class DBConnection{
 	private static DBConnection obj; 

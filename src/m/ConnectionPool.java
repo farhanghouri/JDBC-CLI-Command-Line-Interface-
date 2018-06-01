@@ -1,10 +1,7 @@
 package m;
 import java.sql.*;
 import java.util.ArrayList;
-import java.util.List;
-import java.util.Map;
-import java.util.Properties;
-import java.util.concurrent.Executor;
+import java.util.List; 
 public class ConnectionPool{
 
 	private  List<Connection> list;
